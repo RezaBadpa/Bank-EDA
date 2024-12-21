@@ -1,0 +1,17 @@
+
+Greetings , fellow analysts !
+
+(NOTE : This is a random dataset generated using python. It bears no resemblance to any real entity in the corporate world. Any resemblance is a matter of coincidence.)
+
+REC-SSEC Bank is a govt-aided bank operating in the Indian Peninsula. They have regional branches in over 40+ regions of the country.
+You have been provided with a massive excel sheet containing the transaction details, the total transaction amount and their location and total transaction count.
+
+The dataset is described as follows :
+
+1.Date - The date on which the transaction took place.
+2.Domain - Where or which type of Business entity made the transaction.
+3.Value - Total value of transaction
+4.Count of transaction -
+For example , in the very first row , the data can be read as :
+" On the first of January, 2022 , 1932 transactions of summing upto INR 365554 were reported "
+NOTE : There are about 2752 transactions every single day. All of this has been given to you.
